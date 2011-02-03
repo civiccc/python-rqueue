@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-from queue import __version__
+import vrqueue
 
 sdict = {
-    'name' : 'votizen-redis-queue',
-    'version' : __version__,
+    'name' : 'vrqueue',
+    'version' : vrqueue.__version__,
     'description' : 'Python client for votizen/node-redis-queue',
     'long_description' : 'Python client for votizen/node-redis-queue',
     'url': 'http://github.com/votizen/python-redis-queue',
@@ -13,7 +13,6 @@ sdict = {
     'maintainer_email' : 'micheil@votizen.com',
     'keywords' : ['Redis', 'Queue'],
     'license' : 'MIT',
-    'packages' : ['redis'],
     'classifiers' : [
         'Programming Language :: Python'
     ],

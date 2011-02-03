@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: votizen-redis-queue
+Version: 0.0.1
+Summary: Python client for votizen/node-redis-queue
+Home-page: http://github.com/votizen/python-redis-queue
+Author: Micheil Smith
+Author-email: micheil@votizen.com
+License: MIT
+Description: Python client for votizen/node-redis-queue
+Keywords: Redis,Queue
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
