@@ -1,6 +1,0 @@
-setup.py
-vrqueue.egg-info/PKG-INFO
-vrqueue.egg-info/SOURCES.txt
-vrqueue.egg-info/dependency_links.txt
-vrqueue.egg-info/requires.txt
-vrqueue.egg-info/top_level.txt
