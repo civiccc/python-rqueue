@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-import vrqueue
+import nrqueue
 
 sdict = {
-    'name' : 'vrqueue',
-    'version' : vrqueue.__version__,
+    'name' : 'nrqueue',
+    'version' : nrqueue.__version__,
     'description' : 'Python client for votizen/node-redis-queue',
     'long_description' : 'Python client for votizen/node-redis-queue',
     'url': 'http://github.com/votizen/python-redis-queue',
