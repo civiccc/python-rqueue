@@ -2,6 +2,7 @@ import json
 import time
 
 from redis import Redis
+from uuid import uuid4
 
 class Queue(object):
   
@@ -18,7 +19,7 @@ class Queue(object):
 
   def push(self, payload=''):
     packet = json.dumps({
-      'id': self._redis.incr(self.id_key()),
+      'id': str(uuid4()),
       'payload': payload,
       'error_count': 0,
       'errors': [],

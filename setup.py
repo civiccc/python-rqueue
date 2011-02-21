@@ -16,7 +16,7 @@ sdict = {
     'classifiers' : [
         'Programming Language :: Python'
     ],
-    'install_requires': ['redis'],
+    'install_requires': ['redis', 'uuid'],
 }
 
 try:
