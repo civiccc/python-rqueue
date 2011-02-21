@@ -1,12 +1,12 @@
 #!/usr/bin/env python
-import nrqueue
+import rqueue
 
 sdict = {
-    'name' : 'nrqueue',
-    'version' : nrqueue.__version__,
-    'description' : 'Python client for votizen/node-redis-queue',
-    'long_description' : 'Python client for votizen/node-redis-queue',
-    'url': 'http://github.com/votizen/python-redis-queue',
+    'name' : 'rqueue',
+    'version' : rqueue.__version__,
+    'description' : 'Python client for votizen/node-rqueue',
+    'long_description' : 'Python client for votizen/node-rqueue',
+    'url': 'http://github.com/votizen/python-rqueue',
     'author' : 'Micheil Smith',
     'author_email' : 'micheil@votizen.com',
     'maintainer' : 'Micheil Smith',
