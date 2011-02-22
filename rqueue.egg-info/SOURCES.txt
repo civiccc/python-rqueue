@@ -1,0 +1,6 @@
+setup.py
+rqueue.egg-info/PKG-INFO
+rqueue.egg-info/SOURCES.txt
+rqueue.egg-info/dependency_links.txt
+rqueue.egg-info/requires.txt
+rqueue.egg-info/top_level.txt
