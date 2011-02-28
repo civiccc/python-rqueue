@@ -1,9 +1,8 @@
 #!/usr/bin/env python
-import rqueue
 
 sdict = {
     'name' : 'rqueue',
-    'version' : rqueue.__version__,
+    'version' : '0.0.4',
     'description' : 'Python client for votizen/node-rqueue',
     'long_description' : 'Python client for votizen/node-rqueue',
     'url': 'http://github.com/votizen/python-rqueue',
