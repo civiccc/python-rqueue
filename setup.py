@@ -24,9 +24,5 @@ sdict = dict(
     install_requires = ['redis', 'uuid'],
 )
 
-try:
-    from setuptools import setup
-except ImportError:
-    from distutils.core import setup
-
+from distutils.core import setup
 setup(**sdict)
