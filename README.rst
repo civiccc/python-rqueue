@@ -9,11 +9,6 @@ Notice
 
 This package is currently functions only as a Queue for a RQueue, it does not function as an RQueue worker.
 
-Node.js RQueue implementation
-*****************************
-
-For a compatible node.js worker and queue, see http://github.com/votizen/node-rqueue
-
 Licensing
 *********
 Copyright (c) 2011 Votizen Incorporated
