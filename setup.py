@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 sdict = dict(
-    name = 'rqueue',
+    name = 'python-rqueue',
     packages = ['rqueue'],
     version = '0.4.0',
     description = 'Python client for votizen/node-rqueue',
@@ -15,7 +15,7 @@ sdict = dict(
     license = 'MIT',
     classifiers=[
         'Programming Language :: Python',
-        'license :: MIT',
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
